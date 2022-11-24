@@ -1,0 +1,15 @@
+{
+  "IsEncrypted": false,
+  "Values": {
+      "AzureFunctionsJobHost__logging__logLevel__Default": "Trace",
+      "APPINSIGHTS_INSTRUMENTATIONKEY": "mock-key",
+      "AZURE_TENANT_ID": "",
+      "AzureWebJobsStorage": "",
+      "FUNCTIONS_EXTENSION_VERSION": "~4",
+      "FUNCTIONS_WORKER_RUNTIME": "node",
+      "NODE_ENV": "development"
+  },
+  "Host": {
+      "CORS": "*"
+  }
+}
